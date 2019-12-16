@@ -1,6 +1,7 @@
 PROJECT HOME:
 
 	https://github.com/molotovcrow/COSC432-Neural-Network
+	Source code: https://github.com/pswitl1/cosc432_group_project
 
 USAGE:
 
